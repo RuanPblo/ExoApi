@@ -119,3 +119,4 @@ C:\Users\ead\Documents\ExoApi\obj\Debug\net10.0\refint\ExoApi.dll
 C:\Users\ead\Documents\ExoApi\obj\Debug\net10.0\ExoApi.pdb
 C:\Users\ead\Documents\ExoApi\obj\Debug\net10.0\ExoApi.genruntimeconfig.cache
 C:\Users\ead\Documents\ExoApi\obj\Debug\net10.0\ref\ExoApi.dll
+C:\Users\ead\Documents\ExoApi\obj\Debug\net10.0\ExoApi.sourcelink.json
